@@ -87,7 +87,7 @@ composer require phpoffice/phpspreadsheet
 ---
 
 ## Resultado
-![Reporte de colaboradores](assets/reporte.png)
+![Reporte de colaboradores](assets/captura.png)
 
 ---
 
